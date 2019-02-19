@@ -1,2 +1,2 @@
 # blackjack
-Blackjack project done for CECS 282
+Blackjack project for CECS 282
