@@ -44,7 +44,7 @@ string Card:: getName() {
 }
 
 /*
- * Function to set card equal to one if its an ace
+ * Function to return boolean indicating if the card is an ace or not
  */
 bool Card:: isAce() {
     return num == 1;
